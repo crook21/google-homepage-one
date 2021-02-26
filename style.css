@@ -1,0 +1,34 @@
+
+body{
+    height: 96vh;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    flex-direction: column;
+}
+nav{
+    width: 100vw;
+    display:flex;
+    justify-content:space-between;
+}
+#logo{
+    display:flex;
+    justify-content:center; 
+}
+#search{
+    display:flex;
+    justify-content:center; 
+}
+#input{
+    display:flex;
+    justify-content:center; 
+}
+footer{
+        width: 100vw;
+        display:flex;
+        justify-content:space-between;
+}
+h1{
+    color:red;
+    
+}
